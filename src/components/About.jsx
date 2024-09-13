@@ -10,9 +10,9 @@ function About() {
         </div> 
         <div className='w-[95%] bg-black h-[60px] flex justify-center items-center  rounded-3xl '>
         <div className="flex gap-4 py-11  ">
-          <button className="bg-gray-950  hover:bg-gray-900 text-white font-bold py-2 px-14 text-[18px] rounded-xl">About Me</button>
-          <button className="bg-gray-950  hover:bg-gray-900 text-white font-bold py-2 px-14 text-[18px] rounded-xl">Experiences</button>
-          <button className="bg-gray-950  hover:bg-gray-900 text-white font-bold py-2 px-14 text-[18px] rounded-xl">Recommended</button>
+          <button className="bg-gray-950  hover:bg-gray-900 text-white font-bold py-2 px-14 text-[14px] rounded-xl">About Me</button>
+          <button className="bg-gray-950  hover:bg-gray-900 text-white font-bold py-2 px-14 text-[14px] rounded-xl">Experiences</button>
+          <button className="bg-gray-950  hover:bg-gray-900 text-white font-bold py-2 px-14 text-[14px] rounded-xl">Recommended</button>
         </div></div>
       </div>
 <div className="flex justify-between items-center mb-4">
